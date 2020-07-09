@@ -12,7 +12,7 @@
 ### Twitter Web
 Clonado para aprender flex-box e responsividade. Aproveitei pra adicionar o modo escuro 🌒.
 
-<img src="./assets/appscreen.gif">
+<img width="100%" src="./assets/appscreen.gif">
 </p>
 
 <div align="center">
