@@ -10,7 +10,7 @@
 <p>
 
 ### Twitter Web
-Clonado para aprender flex-box e responsividade. Aproveitei pra adicionar o modo escuro 🌒.
+Clonado para aprender flex-box e responsividade. Aproveitei pra adicionar o modo escuro.
 
 <img width="100%" src="./assets/appscreen.gif">
 </p>
