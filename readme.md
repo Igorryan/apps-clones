@@ -15,7 +15,7 @@ Clonado para aprender flex-box e responsividade. Aproveitei pra adicionar o modo
 ### PicPay
 Clonado para treinar navegação no React Native com Tab Navigation.
 
-<img width="100%" src="./assets/screenmovie.gif">
+<img width="100%" src="./assets/picpay.gif">
 
 <div align="center">
   <sub>Built with ❤︎ by <a href="https://www.linkedin.com/in/igorryan/">Igor Ryan</a>
