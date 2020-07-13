@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Apps Bunshin no Jutsu</h1>
+<h1>Apps Clones</h1>
 <p>Seja bem-vindo ao repositório que utilizo para armazenar os aplicativos mobile e web que já clonei para praticar e aprender!</p>
 
 <img src="https://img.shields.io/badge/Cloned Mobile Apps-1-orange">
